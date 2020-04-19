@@ -1,9 +1,13 @@
 # blender
 
-# Create a quick animation
+## Create a quick animation
 
 * https://www.youtube.com/watch?v=Gq1jIiyFRnA
 
-# Extrude some faces
+## Extrude some faces
 
 * https://www.youtube.com/watch?v=2qD_tcPMhOs
+
+## Mirror 
+
+* https://www.youtube.com/watch?v=pylPUixuPN4
