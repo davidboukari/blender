@@ -11,3 +11,5 @@
 ## Mirror 
 
 * https://www.youtube.com/watch?v=pylPUixuPN4
+
+duplicate an object: shift + d
