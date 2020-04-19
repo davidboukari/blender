@@ -13,3 +13,6 @@
 * https://www.youtube.com/watch?v=pylPUixuPN4
 
 duplicate an object: shift + d
+
+## Dig an object
+https://www.youtube.com/watch?v=lAjx9mbRh0s
