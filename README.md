@@ -16,3 +16,7 @@ duplicate an object: shift + d
 
 ## Dig an object
 https://www.youtube.com/watch?v=lAjx9mbRh0s
+
+## Create a road
+
+* https://www.youtube.com/watch?v=P6olM2lQA3I
