@@ -24,3 +24,8 @@ Object Mode -> Modifier properties (spanner key => cle a molette) -> Boolean -> 
 
 * https://www.youtube.com/watch?v=P6olM2lQA3I
 * https://www.youtube.com/watch?v=SDLLbKvEeBY
+
+
+## Shortcuts
+t: 
+n: dimensions
