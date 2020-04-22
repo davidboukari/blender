@@ -36,6 +36,7 @@ Object Mode -> Modifier properties (spanner key => cle a molette) -> Boolean -> 
 * Edition mode ALT + m : fusion points
 * Edition mode + v : dissociate segment
 * select faces + p -> selection: create a new plane
+* flat on z: s z 0 ENTER
 
 ## Set origin
 object mode -> Object -> set Origin -> Origin to Geometry
