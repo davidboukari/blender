@@ -30,6 +30,7 @@ Object Mode -> Modifier properties (spanner key => cle a molette) -> Boolean -> 
 ## Shortcuts
 t: 
 object mode + n: dimensions
+CRTL + j : fusion
 
 ## Set origin
 object mode -> Object -> set Origin -> Origin to Geometry
