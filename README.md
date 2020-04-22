@@ -8,7 +8,8 @@ move the object use i to set frame LockRocScale
 ## Extrude some faces
 
 * https://www.youtube.com/watch?v=2qD_tcPMhOs<br>
-Edit Mode -> select (Vertex, Faces) ->  Extrude
+Edit Mode -> select (Vertex, Faces) ->  Extrude<br>
+Extrude inside e s
 
 ## Mirror 
 * https://www.youtube.com/watch?v=pylPUixuPN4<br>
