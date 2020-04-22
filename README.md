@@ -28,9 +28,11 @@ Object Mode -> Modifier properties (spanner key => cle a molette) -> Boolean -> 
 
 
 ## Shortcuts
-t: 
-object mode + n: dimensions
-CRTL + j : fusion
+
+* t: 
+* object mode + n: dimensions
+* Object Mode CRTL + j : fusion object
+* Edition mode ALT + m : fusion points
 
 ## Set origin
 object mode -> Object -> set Origin -> Origin to Geometry
