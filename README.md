@@ -13,6 +13,7 @@ Extrude inside e s
 
 ## Mirror 
 * https://www.youtube.com/watch?v=pylPUixuPN4<br>
+Select the object -> Edit mode -> set Faces in selection -> Add modifier -> Mirror -> Move the object
 Object Mode -> Modifier properties (spanner key => cle a molette) -> Mirror<br>
 duplicate an object: shift + d
 
@@ -37,3 +38,6 @@ Object Mode -> Modifier properties (spanner key => cle a molette) -> Boolean -> 
 
 ## Set origin
 object mode -> Object -> set Origin -> Origin to Geometry
+
+## Create a new plane from Faces
+Select the faces -> t -> selection
