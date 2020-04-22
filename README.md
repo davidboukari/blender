@@ -35,6 +35,7 @@ Object Mode -> Modifier properties (spanner key => cle a molette) -> Boolean -> 
 * Object Mode CRTL + j : fusion object
 * Edition mode ALT + m : fusion points
 * Edition mode + v : dissociate segment
+* select faces + p -> selection: create a new plane
 
 ## Set origin
 object mode -> Object -> set Origin -> Origin to Geometry
