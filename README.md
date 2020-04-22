@@ -33,6 +33,7 @@ Object Mode -> Modifier properties (spanner key => cle a molette) -> Boolean -> 
 * object mode + n: dimensions
 * Object Mode CRTL + j : fusion object
 * Edition mode ALT + m : fusion points
+* Edition mode + v : dissociate segment
 
 ## Set origin
 object mode -> Object -> set Origin -> Origin to Geometry
