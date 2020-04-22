@@ -29,4 +29,7 @@ Object Mode -> Modifier properties (spanner key => cle a molette) -> Boolean -> 
 
 ## Shortcuts
 t: 
-n: dimensions
+object mode + n: dimensions
+
+## Set origin
+object mode -> Object -> set Origin -> Origin to Geometry
