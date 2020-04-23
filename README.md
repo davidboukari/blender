@@ -49,3 +49,10 @@ Select the faces -> t -> selection
 
 ## Create texture
 * https://www.youtube.com/watch?v=vsXrWBgH3vI
+
+## Camera
+* View -> Active Camera  (to see camera view / or deactivate it)
+* g x : move camera on x
+* g y : move camera on y
+* g z : move camera on z
+
