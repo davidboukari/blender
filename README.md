@@ -43,3 +43,6 @@ object mode -> Object -> set Origin -> Origin to Geometry
 
 ## Create a new plane from Faces
 Select the faces -> t -> selection
+
+## donwload textures
+* https://unsplash.com/backgrounds/art/texture
