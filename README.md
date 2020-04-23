@@ -46,3 +46,6 @@ Select the faces -> t -> selection
 
 ## donwload textures
 * https://unsplash.com/backgrounds/art/texture
+
+## Create texture
+* https://www.youtube.com/watch?v=vsXrWBgH3vI
